@@ -39,3 +39,7 @@ I recommend to:
 - use a color gradient on the pressure data.
 - set opacity of velocity to 0
 - apply Glyph on velocity data + set orrientation to u_n + set color to magnitude of u_n
+
+![alt text](https://github.com/VogelBenjamin/BSP-S5/blob/main/Curve%20pipe%20flow%20simulation_page-0001.jpg?raw=true)
+
+
